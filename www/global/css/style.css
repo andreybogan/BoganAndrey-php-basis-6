@@ -24,3 +24,14 @@ input, textarea {
 hr {
     margin: 24px 0;
 }
+
+.catalog {
+    display: flex;
+}
+
+.item {
+    padding: 16px;
+    border: 1px solid #f0f0f0;
+    max-width: 232px;
+    margin-right: 6px;
+}

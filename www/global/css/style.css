@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box
+}
+
+input, textarea {
+    display: block;
+    margin: 4px 0;
+    width: 400px;
+}
+
+.submit {
+    margin-top: 12px;
+    width: auto;
+}
+
+.comment {
+    width: 400px;
+    padding: 12px;
+    margin: 4px 0;
+    border: 1px solid #cdcdcd;
+    background: #f0f0f0;
+}
+
+hr {
+    margin: 24px 0;
+}

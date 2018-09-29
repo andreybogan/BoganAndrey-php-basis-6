@@ -9,4 +9,4 @@ define("TEMPLATE_DIR", DOCUMENT_ROOT . "template/");
 define("HOST_MySQL", "localhost");
 define("LOGIN_MySQL", "root");
 define("PASS_MySQL", "");
-define("NAME_DB", "geek_gallery");
+define("NAME_DB", "geek_lesson_6");
